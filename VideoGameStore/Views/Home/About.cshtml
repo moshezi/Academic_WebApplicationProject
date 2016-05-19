@@ -1,0 +1,50 @@
+﻿@{
+    ViewBag.Title = "About";
+    var videoUrl = @Url.Content("~/Video/video.mp4");
+}
+
+<div id="@ViewBag.backgroundID" class="background-div">
+
+    <div class="about-wrapper">
+        <p class="about">
+
+            <h1>@ViewBag.Message</h1>
+
+
+
+        </p>
+
+        <p>
+
+            VideoGameStore Inc. is a leading online Console Video Games Store committed to becoming the most loved and trusted online gaming store on the web.</br>
+            We tirelessly pursue these goals by offering a superior shopping experience, rapid delivery and stellar customer service.</br>
+        </p>
+        <p>
+            With more than 10.5 million products and an award-winning website, VideoGameStore proudly earns the loyalty of tech-enthusiasts and mainstream e-shoppers alike.</br>
+            We offer our customers peace of mind with lightning-fast delivery and cutting-edge logistics.</br>
+        </p>
+        <p>
+            At VideoGameStore, we believe service truly begins after the product you ordered arrives at your doorstep.</br>
+            We follow through on this commitment with exceptional customer service. Our team of service associates are available via phone and e-mail to help ensure your utmost satisfaction.</br>
+        </p>
+        <p>
+            We've dedicated ourselves to making sure that everyone enjoys shopping at VideoGameStore.</br>
+            We take great pride in working passionately to exceed your expectations each and every time you shop with us.
+
+        </p>
+        <div id="video-wrapper">
+            <video id="video" controls="" autoplay="">
+                <source src="~/Video/video1.mp4" type="video/mp4">
+                <source src="~/Video/video1.ogg" type="video/ogg">
+            </video>
+        </div>
+    </div>
+</div>
+</div>
+
+
+
+
+
+
+

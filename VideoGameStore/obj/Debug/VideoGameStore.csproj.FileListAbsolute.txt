@@ -1,0 +1,274 @@
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\VideoStore.dll.config
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\VideoStore.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\VideoStore.pdb
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Antlr3.Runtime.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\EntityFramework.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Microsoft.Owin.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Microsoft.Owin.Security.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Newtonsoft.Json.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Owin.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\System.Web.Helpers.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\System.Web.Mvc.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\System.Web.Optimization.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\System.Web.Razor.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\System.Web.WebPages.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\WebGrease.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\System.Web.Helpers.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\System.Web.Mvc.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\System.Web.Optimization.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\System.Web.Razor.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\System.Web.WebPages.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Antlr3.Runtime.pdb
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Newtonsoft.Json.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\EntityFramework.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Microsoft.Owin.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Microsoft.Owin.Security.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\obj\Debug\VideoStore.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoStore\VideoGameStore\obj\Debug\VideoStore.pdb
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\VideoGameStore.dll.config
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\VideoGameStore.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\VideoGameStore.pdb
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Antlr3.Runtime.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\EntityFramework.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Newtonsoft.Json.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Owin.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\System.Web.Helpers.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\System.Web.Mvc.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\System.Web.Optimization.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\System.Web.Razor.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\System.Web.WebPages.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\WebGrease.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\System.Web.Helpers.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\System.Web.Mvc.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\System.Web.Optimization.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\System.Web.Razor.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\System.Web.WebPages.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Antlr3.Runtime.pdb
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Newtonsoft.Json.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\EntityFramework.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\obj\Debug\VideoGameStore.dll
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\obj\Debug\VideoGameStore.pdb
+C:\Users\Moshe\Documents\Visual Studio 2013\Projects\VideoGameStore\VideoGameStore\obj\Debug\VideoGameStore.csprojResolveAssemblyReference.cache
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\VideoGameStore.dll.config
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\VideoGameStore.dll
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\VideoGameStore.pdb
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Antlr3.Runtime.dll
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\EntityFramework.dll
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.dll
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.dll
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Newtonsoft.Json.dll
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Owin.dll
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\System.Web.Helpers.dll
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\System.Web.Mvc.dll
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\System.Web.Optimization.dll
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\System.Web.Razor.dll
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\System.Web.WebPages.dll
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\WebGrease.dll
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\System.Web.Helpers.xml
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\System.Web.Mvc.xml
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\System.Web.Optimization.xml
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\System.Web.Razor.xml
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\System.Web.WebPages.xml
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Antlr3.Runtime.pdb
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Newtonsoft.Json.xml
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\EntityFramework.xml
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.xml
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.xml
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\obj\Debug\VideoGameStore.csprojResolveAssemblyReference.cache
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\obj\Debug\VideoGameStore.dll
+C:\Users\Moshe\Documents\מדעי המחשב\שנה ב\סמסטר ג\אפליקציות\project_final\VideoGameStore\VideoGameStore\obj\Debug\VideoGameStore.pdb
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\VideoGameStore.dll.config
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\VideoGameStore.dll
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\VideoGameStore.pdb
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Antlr3.Runtime.dll
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\EntityFramework.dll
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\EntityFramework.SqlServer.dll
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.dll
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.dll
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Newtonsoft.Json.dll
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Owin.dll
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\System.Web.Helpers.dll
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\System.Web.Mvc.dll
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\System.Web.Optimization.dll
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\System.Web.Razor.dll
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\System.Web.WebPages.dll
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\WebGrease.dll
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\System.Web.Helpers.xml
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\System.Web.Mvc.xml
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\System.Web.Optimization.xml
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\System.Web.Razor.xml
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\System.Web.WebPages.xml
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Antlr3.Runtime.pdb
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Newtonsoft.Json.xml
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\EntityFramework.xml
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\EntityFramework.SqlServer.xml
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.xml
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.xml
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\obj\Debug\VideoGameStore.csprojResolveAssemblyReference.cache
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\obj\Debug\VideoGameStore.dll
+C:\Users\moshe\Downloads\_משה_יצחקי_021558200_דוד אפשטיין_304359203_עידן_לוי_032587933_יעל_חורי_305557654\VideoGameStore\VideoGameStore\obj\Debug\VideoGameStore.pdb
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\VideoGameStore.dll.config
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\VideoGameStore.dll
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\VideoGameStore.pdb
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Antlr3.Runtime.dll
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\EntityFramework.dll
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\EntityFramework.SqlServer.dll
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.dll
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.dll
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Newtonsoft.Json.dll
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Owin.dll
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\System.Web.Helpers.dll
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\System.Web.Mvc.dll
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\System.Web.Optimization.dll
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\System.Web.Razor.dll
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\System.Web.WebPages.dll
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\WebGrease.dll
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\System.Web.Helpers.xml
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\System.Web.Mvc.xml
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\System.Web.Optimization.xml
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\System.Web.Razor.xml
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\System.Web.WebPages.xml
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Antlr3.Runtime.pdb
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Newtonsoft.Json.xml
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\EntityFramework.xml
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\EntityFramework.SqlServer.xml
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.xml
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.xml
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\obj\Debug\VideoGameStore.csprojResolveAssemblyReference.cache
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\obj\Debug\VideoGameStore.dll
+C:\Users\moshe\Documents\dev\VideoGameStore\VideoGameStore\obj\Debug\VideoGameStore.pdb

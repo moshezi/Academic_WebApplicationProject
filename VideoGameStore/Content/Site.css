@@ -1,0 +1,201 @@
+﻿
+html, body {
+    height: 100%;
+}
+
+header {
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+body {
+    margin:0px;
+    padding: 0px;
+}
+
+body {
+    height: 100%;
+    overflow: hidden;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+.chart-wrapper {
+    position: relative;
+    width:100%; 
+    text-align: center:
+}
+
+.chart-div {
+    float: left; 
+    margin-left:25px;
+}
+
+#body {
+    display: block;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 51px;
+    bottom: 0px;
+    color: white;
+    background-color: black;
+    overflow: auto;
+    margin-bottom: 50px;
+}
+
+footer {
+    /*bottom: 0;
+    height: 50px;
+    left: 0;
+    position: fixed;
+    width: 100%;*/
+    background-color: black;
+    color: #999999;
+
+    padding-top: 20px;
+    display: block;
+    margin-top: 20px; /* space between content and footer */
+    box-sizing: border-box;
+    position: relative;
+    width: 100%;
+}
+
+.navbar-brand {
+     -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Safari and Chrome */
+    -o-transform: rotate(0deg); /* Opera */
+    -moz-transform:rotate(0deg); /* Firefox */
+    transform: rotate(0deg);
+    -webkit-transition: .3s;   
+    transition: .3s;   
+}
+.navbar-brand:hover {
+    -ms-transform: rotate(15deg); /* IE 9 */
+    -webkit-transform: rotate(15deg); /* Safari and Chrome */
+    -o-transform: rotate(15deg); /* Opera */
+    -moz-transform:rotate(15deg); /* Firefox */
+    transform: rotate(15deg);
+    -webkit-transition: .3s;   
+    transition: .3s;  
+     text-shadow: 7px 7px 7px #FFF; 
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+h1, p, td, th {
+    color: white;
+    3px 3px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+#copyright {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    margin-left: 80px;
+}
+
+#contact {
+    color: black;
+}
+
+.about {
+    padding-left: 30px;
+    padding-top: 0%;
+    font-size: 120%;
+}
+
+h2 {
+    padding-left: 30px;
+}
+
+#video-wrapper {
+    text-align: center;
+}
+
+#video {
+    margin: 50px;
+    width: 355px;
+    height: 200px;
+}
+
+#about-wrapper {
+    position:absolute;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.a9 {
+    padding-left: 300px;
+    margin-top: 15px;
+}
+
+#gaming_wallpaper {
+    background-image: url("/Images/gaming_consoles_wallpaper.jpg");
+}
+
+#console {
+    background-image: url("/Images/GameConsole.jpg");
+}
+
+#games {
+    background-image: url("/Images/gamepic8.jpg");
+}
+
+#accerssories {
+    background-image: url("/Images/2.jpg");
+}
+
+#office {
+    background-image: url("/Images/12.jpg");
+}
+
+#suppliers1 {
+    background-image: url("/Images/6806858-ps4-logo.jpg");
+}
+
+.background-div {
+    position: relative;
+    top: 0;
+    bottom: 0px;
+    left: 0;
+    right: 0;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#orders1 {
+    background-image: url("/Images/ps4_logo_wallpaper.jpg");
+}
+
+#Contact {
+    padding-left: 50px;
+}

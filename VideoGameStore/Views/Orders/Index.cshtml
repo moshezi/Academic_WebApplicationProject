@@ -1,0 +1,77 @@
+﻿@model IEnumerable<VideoGameStore.Models.Orders>
+
+@{
+    ViewBag.Title = "Orders";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div id="@ViewBag.backgroundID" class="background-div">
+    <div class=" container">
+        <h1>Orders</h1>
+
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Products.productName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.customerName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.customerPhone)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.city)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.adress)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.orderPrice)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Products.productName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.customerName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.customerPhone)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.city)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.adress)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.orderPrice)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.OrderID }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.OrderID }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.OrderID })
+                    </td>
+                </tr>
+            }
+
+        </table>
+        @using (Html.BeginForm())
+        {
+            @Html.TextBox("name", null, new { @class = "form-control", @placeholder = "Search by name" })
+            <br />
+            @Html.TextBox("phone", null, new { @class = "form-control", @placeholder = "Search by phone" })
+            <br />
+            @Html.TextBox("city", null, new { @class = "form-control", @placeholder = "Search by City" })
+            <br />
+            <input type="submit" value="Search" class="btn btn-default" />
+        }
+    </div>
+</div>

@@ -1,0 +1,64 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<div id="gaming_wallpaper" class="background-div">
+    <div class="container">
+        <div id="weather"></div>
+    </div>
+    <h1>Welcome to Video Game Store</h1>
+
+    <div id="product-groups"></div>
+
+    @using (Html.BeginForm("Search", "Products"))
+    {
+        <p>
+            @Html.TextBox("productName", null, new { @class = "form-control", @placeholder = "Search by name" })
+            <br />
+            <input type="submit" value="Search" class="btn btn-default" />
+        </p>
+    }
+</div>
+<script src="/scripts/jquery-1.10.2.js" type="text/javascript"></script>
+
+
+@* web service *@
+<script>
+    //http://api.openweathermap.org/data/2.5/weather?q=TelAviv&units=metric&appid=821a4b985565f5c4c90ec9dcdfa13c7c
+
+    $.ajax({
+
+        url: 'http://api.openweathermap.org/data/2.5/weather?q=TelAviv&units=metric&appid=821a4b985565f5c4c90ec9dcdfa13c7c',
+        type: 'GET',
+        dataType: 'json',
+        success: function (data) {
+            $('#weather').html("The weather in " + data.name + ": " + data.main.temp + ", humidity: " + data.main.humidity);
+        },
+        error: function (request, error) {
+            console.log("error!\n" + JSON.stringify(request));
+        }
+    });
+</script>
+
+@* Group By! *@
+<script>
+    //http://localhost:2293/Products/getProductsByGroup
+
+    $.ajax({
+
+        url: 'http://localhost:2293/Products/getProductsByGroup',
+        type: 'GET',
+        dataType: 'json',
+        success: function (products) {
+            for (var i = 0; i < products.length; i++) {
+                var data = products[i];
+                $('#product-groups').append("<p>" + data.Type + ": " + data.Products + " in stock</p>");
+            }
+
+        },
+        error: function (request, error) {
+            console.log("error!\n" + JSON.stringify(request));
+        }
+    });
+</script>
